@@ -22,7 +22,11 @@
 
 西北工业大学严老师自己编写的MATLAB工具箱，已经迭代了很多版本。网站中不仅含有代码，还包含许多数据集。另外严老师的许多博客也可以找到。严老师拥有丰富的实践经验，他的博客对于初学者来说具有十分重要的指导意义。然而我个人认为他的代码可读性一般，学习起来十分费劲，相比之下武汉大学开源的代码在可读性上要好很多。
 
+## 4. GMAT(general mission analysis tool)
+地址：https://gmat.atlassian.net/wiki/spaces/GW/overview
+GMAT Tutorial：https://documentation.help/GMAT/Tutorials.html
 
+NASA开源的一款和STK(Satellite Tool Kit)很类似的软件。不同的是STK目前仅支持Windows而GMAT支持Windows、Linux、Mac。更重要的是GMAT是一款开源软件！
 
 ## 本人联系方式
 ZCJ  QQ：255646886  tel:15201542439
