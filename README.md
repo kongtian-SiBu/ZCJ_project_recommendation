@@ -26,7 +26,8 @@
 地址：https://gmat.atlassian.net/wiki/spaces/GW/overview   
 GMAT Tutorial：https://documentation.help/GMAT/Tutorials.html
 
-NASA开源的一款和STK(Satellite Tool Kit)很类似的软件。不同的是STK目前仅支持Windows而GMAT支持Windows、Linux、Mac。更重要的是GMAT是一款开源软件！
+NASA开源的一款和STK(Satellite Tool Kit)很类似的软件。不同的是STK目前仅支持Windows而GMAT支持Windows、Linux、Mac。更重要的是GMAT是一款开源软件！虽然阅读如此庞大工程的源码并不容易，但至少可以让我们对GMAT内部使用的模型有所了解。   
+Github：https://github.com/ChristopherRabotin/GMAT
 
 ## 本人联系方式
 ZCJ  QQ：255646886  tel:15201542439
